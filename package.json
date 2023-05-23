@@ -17,7 +17,7 @@
     "authorization",
     "mysql"
   ],
-  "author": "bezkoder",
+  "author": "zodte",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
